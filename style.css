@@ -1,0 +1,43 @@
+:root {
+    --blue: #4265da;
+    --grey: #f0f1f6;
+    --black: #fff;
+}
+
+.body {
+    color: var(--black);
+}
+
+.navbar {
+    background-color: var(--blue);
+}
+
+.about-main {
+    background-color: var(--blue);
+    min-height: 450px;
+    padding-top: 60px;
+
+}
+
+.list-icon {
+    background-color: var(--grey);
+    color: var(--blue);
+}
+
+/* #about {}
+
+.about-second {} */
+
+#projects {
+    background-color: var(--grey);
+}
+
+/* .projects-main {}
+
+#update {}
+
+.updates-info {} */
+
+.footer {
+    background-color: var(--blue);
+}
